@@ -17,7 +17,7 @@
 <img src="https://github.com/bykeywyc/haitunquant/blob/main/imgs/QQ1.jpg" alt="qq群" width="220" height="300">
 </p>  
 
-## 链上打狗交易所
+## 宇宙交易所
   - 欧易、币安、芝麻、bitget、这四个是中国大陆用户必备的，建议都注册一下，他们都会对新用户进行奖励，一般会送一些币，可以撸一波羊毛。提醒：假如不填推荐码，一旦注册完成就**不再**会有永久减免（也就是返佣，部分手续费会自动返回账号）的机会。
 1. **[欧易（免翻墙）](https://www.promoohivex.com/join/96041932)（OKX，前Okex）**[备用链接（需翻墙）](https://okx.com/join/96041932)
     国内交易量第一。最适合大陆新用户注册的头部交易所。使用此邀请码：**96041932** 可以**永久减免部分手续费**。**6个月未登录过的账户**，通过链接登录也可以获取返佣。
@@ -28,161 +28,270 @@
 4. **[Bitget](https://partner.zysh.xyz/bg/qvps9zrq)** （Bitget）[备用链接（需要翻墙）](https://www.bitget.com/expressly?channelCode=rmg1&vipCode=ZXHY1688)
     全球交易量第一。使用此邀请码：**ZXHY1688** 可以永久减免部分手续费。
     Bitget 是一家全球性的加密货币交易平台，成立于 2018 年，总部位于新加坡。它主要提供现货交易、合约交易（期货）、质押和收益等多种加密货币金融服务。Bitget 以其合约交易（尤其是 USDT 本位和币本位合约）和一键跟单（Copy Trading）功能而闻名，吸引了大量交易者，特别是合约交易用户。
-5. **[GMGN](https://gmgn.ai)**
+   # Awesome Blockchain [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## 区块链-币圈-链上交易入门
-### 如何使用 GMGN
-如何使用 GMGN
+>  收集所有区块链(BlockChain)技术开发相关资料
 
-默认进入的页面就是左上角的战壕选项的页面
+*Please read the contribution [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) before contributing. 请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md)*
 
-GMGN 主要分为三大部分，分别为左上右上以及左下
+## CONTENTS
 
-战壕板块
+- [INTRO 介绍](#intro-%E4%BB%8B%E7%BB%8D)
+- [TUTORIAL 教程](#tutorial-%E6%95%99%E7%A8%8B)
+- [PROJECT 项目](#project-%E9%A1%B9%E7%9B%AE)
+- [DOCUMENT 资料](#document-%E8%B5%84%E6%96%99)
+- [APPLICATION 应用](#application-%E5%BA%94%E7%94%A8)
 
-我们先从战壕这里开始，我们可以看到分为了三个部分：新创建，即将打满，已开盘
+## INTRO 介绍 
 
-这个就涉及到了 Pump fun 的机制，每当在 Pump fun 上面部署一个 MEME Coin 之后，一旦代币的市值达到 69000 美金，Pump fun 就会自动将这个代币的流动性添加至 SOL 上面最大的 DEX Raydium 上面，所以代币市值在 69000 美金就是一个分界线，在 69000 美金之前就成为内盘，内盘打满之后，代币的流动性才会自动添加至 Raydium，所以新创建和即将打满的代币被称为内盘，而已开盘的代币则是代币已经上线 Raydium，也就是我们所说的已发射，内盘的交易由于比较早期，所以潜在的涨幅也会更大，当然对应的风险也会更大，同时价格的波动也非常剧烈，对盯盘以及交易技术的要求也非常高，在内盘中 99% 的代币是会归零，而已开盘的代币相对来说风险就会小一些
+### Started 入门 
 
-新币板块
+- [（一）简单易懂地介绍什么是区块链](https://zhuanlan.zhihu.com/p/22228902) 比特币区块链关键词讲解
+- [（二）简单易懂地介绍什么是区块链（技术篇）](https://zhuanlan.zhihu.com/p/23243289) 比特币区块链技术图解
+- [一文看懂区块链：一步一步发明比特币](https://charlesliuyx.github.io/2017/09/24/%E4%B8%80%E6%96%87%E5%BC%84%E6%87%82%E5%8C%BA%E5%9D%97%E9%93%BE-%E4%BB%A5%E6%AF%94%E7%89%B9%E5%B8%81%E4%B8%BA%E4%BE%8B/)
+- [一步一步学区块链](http://blog.csdn.net/jwter87/article/details/53322642) 按步骤的实际操作入门指南
+- [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide) 区块链领域比较系统的入门资料
+- [理解区块链](http://blog.csdn.net/csolo/article/details/52858236) 区块链关键技术要点讲解
+- [一文看懂区块链架构设计](http://www.8btc.com/ebook-blockchain) 从技术分层解构架构
+- [共识算法与如何解决拜占庭将军问题](https://charlesliuyx.github.io/2018/03/03/%E3%80%90%E5%8C%BA%E5%9D%97%E9%93%BE%E3%80%91%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%E6%8B%9C%E5%8D%A0%E5%BA%AD%E5%B0%86%E5%86%9B%E9%97%AE%E9%A2%98/)
+- [Blockchain Demo](https://blockchaindemo.io/)  A visual demo of blockchain technology
+- [Defi Mooc教程](https://defi-learning.org/) Defi公开课程
 
-热门板块
+### Ethereum 以太坊进阶
 
-这个面板就是我们之后会在扫链时候最常用的面板之一，因为该面板可以通过时间，池子大小，持有者，交易数，成交额和安全检测，对 MEME coin 进行筛选，扫链本质上就是去进行筛选，挑选出优质的 MEME 进行交易
-
-监控板块
-
-这个板块是对于聪明钱 / KOL 的钱包的监控，我们可以在这个板块轻松可以看到聪明钱 / KOL 都买入卖出了什么币，对聪明钱 / KOL 的买入卖出动向绝不能无脑跟单，他们买入就买入，他们卖出就卖出，而是需要你在大量观测的情况下，首先筛选出优质的聪明钱，并且根据这些聪明钱的交易风格来筛选出适合自己交易风格的聪明钱，并且将他们归类整理好，比如有的聪明钱地址是比较擅长做短线，有的聪明钱地址擅长做波段，有的聪明钱擅长抓住金狗长拿，当这类地址的多个聪明钱都发出买入信号的时候，这就是你开仓的好时机。
-
-资产板块
-
-点击资产板块，就可以看到我们当前买入的代币，这个钱包我当前是没有买入任何代币所以是看不到的
-
-追踪板块
-追踪 - 追踪板块
-在这个板块可以看到你关注的钱包地址，可以在这里给你追踪的这些聪明钱地址做分类
-
-
-追踪 - 收藏
-
-在这里你可以查看你收藏的代币
-
-追踪 - 活动
-在这个板块中，你可以看到你关注的所有聪明钱钱包，按照时间顺序告诉你他们买入卖出了哪些代币
-
-
-左上角的功能大概说完了，接下来说一下右上角的主要功能
+- [区块链技术-智能合约-以太坊](http://ethfans.org/posts/block-chain-technology-smart-contracts-and-ethereum) 以太坊智能合约入门概念
+- [以太坊白皮书](http://ethfans.org/wikis/以太坊白皮书)
+- [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page) *(English)*
+- [以太坊设计原理](http://ethfans.org/posts/510)
+- [以太坊Dapp开发入门](http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
+- [以太坊Gas使用](https://hackernoon.com/ether-purchase-power-df40a38c5a2f) Calculating Costs in Ethereum Contracts *(English)*
+- [以太坊代码剖析](http://ethfans.org/topics/227)
+- [以太坊源码阅读](http://www.cnblogs.com/baizx/category/1011749.html)
+- [Merkle Tree学习](http://blog.csdn.net/jiange_zh/article/details/53386250) 
+- [以太坊的指南针](https://github.com/laalaguer/ethereum-compass)
 
 
-切换不同的区块链
+### Fabric 联盟链进阶
 
-许多链上都可以发行自己的 MEME，例如 SOL,ETH,Base,BSC,Tron，不同的链对应的充值地址不同，一定要注意这点！！！图示目前是处于 SOL 链，充值自然只能充值 SOL，如果我切换到 ETH，充值自然也只能充值 ETH
+- [Blockchain区块链架构设计之一：成员管理](https://zhuanlan.zhihu.com/p/23356616)
+- [Blockchain区块链架构设计之二：分布式账本技术对比](https://zhuanlan.zhihu.com/p/23463699)
+- [Blockchain区块链架构设计之三：Hyperledger Fabric介绍](https://zhuanlan.zhihu.com/p/23947372)
+- [Blockchain区块链架构设计之四：Fabric多通道和下一代账本设计](https://zhuanlan.zhihu.com/p/24605987)
+- [Blockchain区块链架构设计之五：让DLT产生协作，对Corda和GSL的思考](https://zhuanlan.zhihu.com/p/25061575)
+- [Blockchain区块链架构设计之六：Fabric 1.0账本设计（1）](https://zhuanlan.zhihu.com/p/25119939)
+- [Blockchain区块链架构设计之七：Fabric 1.0 Endorse背书策略](https://zhuanlan.zhihu.com/p/25295608)
+- [Hyperledger架构解读：Hyperledger Fabric1.0架构概览](http://www.wanbizu.com/blockchain/201702078984.html)
 
+## TUTORIAL 教程
 
-其他链同理，我就不在这里赘述。
+### BitCoin 比特币
 
-有些人问我哪里购买这些 SOL 或者 ETH，当然是在中心化交易所！！推荐两家交易所，自己去注册入金提币到充值地址就行
+- [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency) Cousera上的比特币教程 *(English)*
 
-如果您通过下方注册链接注册或者填写邀请码注册过后，可以私聊我我会拉你进小群，获得我专业的交易指导
+### Ethereum 以太坊
 
-一线 CEX 交易所
-🔹 Binance (币安交易所):
+- [以太坊从零开始入门](http://www.jianshu.com/p/220130b39e22)
+- [以太坊开发入门经验](http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
+- [以太坊智能合约编程之菜鸟教程](http://ethfans.org/posts/101-noob-intro)
+- [Solidity智能合约](https://github.com/WTFAcademy/WTF-Solidity-Internals) 介绍Solidity智能合约中的存储布局，内存布局，以及ABI编码规则，帮助大家理解Solidity的内部规则。
+- [区块链语言Solidity校验椭圆曲线加密数字签名（附实例）](http://www.toutiao.com/i6401418700217385473/?tt_from=weixin&utm_campaign=client_share&from=groupmessage&app=news_article&utm_source=weixin&iid=8932715408&utm_medium=toutiao_ios&wxshare_count=2&pbid=35867484354)
+- [Create your own crypto-currency](https://www.ethereum.org/token) 来自以太坊官方的代币创建教程 *(English)*
+- [ETHEREUM PET SHOP](http://truffleframework.com/tutorials/pet-shop) Truffle框架逐步案例教程 *(English)*
+- [ROBUST SMART CONTRACTS WITH OPENZEPPELIN](http://zeppelin.tryblockchain.org/robust-smart-contracts-with-openzeppelin.html) OpenZeppelin集成Truffle编写健壮安全的合约 *(English)*
+- [Truffle3.0案例教程](http://truffle.tryblockchain.org/truffle3.0-integrate-nodejs.html) 集成NodeJS并完全跑通，附详细实例和可能的错误 *(English)*
+- [以太坊开发入门教程](http://blog.csdn.net/wo541075754/article/category/6502432/1)
+- [useWeb3教程](https://www.useweb3.xyz/) web3开发教程合集 *(English)*
+- [cryptozombies教程](https://cryptozombies.io/) solidity游戏式教程 *(English)*
+- [chainshot教程](https://www.chainshot.com/courses) web3开发教程合集 *(English)*
+- [smartcontract教程](https://www.smartcontract.engineer/)  solidity leetcode模式教程 *(English)*
+- [solidity案例教程](https://solidity-by-example.org/app/ether-wallet/) solidity案例学习 *(English)*
 
-邀请码 DGZLWPQP
-自动减免比例: 20%(购买 BNB 现货放到合约账户再抵扣 10%，更多情况私聊)
-注册链接: https://www.binance.com/zh-CN/join?ref=DGZLWPQP
-备注：链接如果打不开请尝试关闭代理或者更换代理节点，或者下载 APP 注册，填写邀请码 DGZLWPQP 注册同样可以达到手续费减免效果，注册好后私聊我给你拉返佣小群
-可以购买 BNB 现货放到合约账户再抵扣 10% 的手续费
-安卓下载：
-https://download-1306379396.file.myqcloud.com/pack/BNApp_F0000569.apk
-链接失效点击这里:
+### Fabric 联盟链
 
-BNApp_F0000569 下载
-🔹 OKX (欧意交易所):
+- [Fabric Basics](https://github.com/angrbrd/hyperledger-fabric-basics)  使用Docker Toolbox来搭建Fabric的开发环境 *(English)*
+- [Learn Chaincode](https://github.com/IBM-Blockchain/learn-chaincode) Fabric Chaincode入门 *(English)*
+- [Marbles Project Tutorial: Part One](https://github.com/IBM-Blockchain/marbles/blob/master/docs/tutorial_part1.md) 官方Chaincode案例教程第一部分 *(English)*
+- [Marbles Project Tutorial: Part Two](https://github.com/IBM-Blockchain/marbles/blob/master/docs/tutorial_part2.md) 官方Chaincode案例教程第二部分 *(English)*
+- [Hyperledger Fabric V1.0– 开发者快速入门](https://zhuanlan.zhihu.com/p/25070745) 这个是基于baseos 0.2.2 的
+- [搭建运行Fabric V1.0-alpha版本](http://blog.csdn.net/kojhliang/article/details/66971404) 针对Fabric1.0版本的开发环境搭建指引
+- [Fabric v1.0-alpha 开发镜像编译](http://blog.csdn.net/remote_roamer/article/details/70228662) 使用Fabric源码编译v1.0-alpha版本的Docker镜像指引
+- [Hyperledger Composer使用入门](http://www.jianshu.com/p/7bc258810b77) 官方Fabric应用开发工具Hyperledger Composer入门
+- [Fabric-CA-1.0-Alpha小结](http://www.jianshu.com/p/ec7d4216c3cf)
 
-邀请码 DONMARK
-自动减免比例: 20% (更多情况私聊)
-注册链接：https://www.okx.com/join/DONMARK
-大陆注册链接 (备用)：https://www.chouyi.ninja/join/DONMARK
-备注：链接如果打不开请尝试关闭代理或者更换代理节点，或者下载 APP 注册，填写邀请码 DONMARK 或者 56864728 注册同样可以达到手续费减免效果
-安卓下载:
-https://www.oyicn.co/ul/445zW1?channelid=56864728
+### Videos 视频
 
-链接失效点击这里下载
+- [Devcon 0 (Berlin, 2014) talks and videos](https://www.youtube.com/watch?v=_BvvUlKDqp0&amp;list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS) *(English)*
+- [Devcon 1 (London, 2015) talks and videos](https://www.youtube.com/watch?v=BUARih8_f68&list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk) *(English)*
+- [Devcon 2 (Shanghai, 2016) talks and videos](https://www.youtube.com/watch?v=1wayaZ1-iBE&list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd) *(English)*
+- [Devcon 3 (Cancún, 2017) talks and videos](https://www.youtube.com/watch?v=7BKegezSXIU&list=PLaOiBfasbC4nULu0Ikv55hR1FpmCfNDdB&ab_channel=EthereumFoundation) *(English)*
+- [Devcon 4 (Prague, 2018) talks and videos](https://www.youtube.com/watch?v=xU-aCLSXk04&list=PLAvgWf9pPaiPNtLtHQI1TdYqDWKrwV5kl&ab_channel=EthereumFoundation) *(English)*
+- [Devcon 5 (Osaka, 2019) talks and videos](https://www.youtube.com/watch?v=y9A8wHhNjJA&list=PLAvgWf9pPaiO3S1dWdnvrQuXJBy89JFXy&ab_channel=EthereumFoundation) *(English)*
+- [Devcon 6 (Bogota, 2022) talks and videos](https://www.youtube.com/watch?v=h4MP1vwnyEE&list=PLaM7G4Llrb7wPaWK47GNSGvPoXUZGYVKX&ab_channel=EthereumFoundation) *(English)*
 
-okx-android_56864728 下载
-查看 MEME Coin
+### Roadmaps 路线图
 
-点击 MEME coin 的名字即可进入该 MEME Coin 的 K 线图来查看
+- [Blockchain Roadmap](https://roadmap.sh/blockchain)
+- [Roadmap of learning blockchain](https://github.com/Blockchain-zju/blockchainer-roadmap)
+- [DeFi Developer Roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 
+## PROJECT 项目
 
-如果你要收藏该代币的话点击代币前方的星星就行
+### Chain 区块链底层
 
-这个代币详情页面可以说主要分为三个大板块
+- [Metaverse](https://github.com/mvs-org/metaverse) 原界链源码
+- [EOS](https://github.com/EOSIO/eos) EOS链源码
+- [BYTOM](https://github.com/Bytom/bytom) 比原链源码
+- [NEO](https://github.com/neo-project/neo) NEO链源码
+- [CITA](https://github.com/cryptape/cita) cita联盟链的底层源码
+- [Nervos](https://github.com/nervosnetwork/ckb) 公链 Nervos CKB 的底层源码
+- [比特币0.1](https://github.com/fkysly/bitcoin0.1.0) 最原始的比特币代码
+- [Quorum](https://github.com/jpmorganchase/quorum) 来自JP Morgan基于Go-Ethereum数据隐私加强的以太坊实现
+- [FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) 来自金链盟的聚焦金融行业的区块链底层平台
+- [Presto-Ethereum](https://github.com/xiaoyao1991/presto-ethereum) 以太坊增加Presto的SQL访问能力
+- [IPFS](https://github.com/ipfs/go-ipfs) IPFS的GO语言实现 [原理](https://github.com/ipfs/ipfs)
 
+### SDK 工具包
 
-代币详情板块
+- [Remix](https://ethereum.github.io/browser-solidity/) 在线以太坊编译器
+- [Truffle](https://github.com/trufflesuite/truffle) 以太坊Dapp开发脚手架
+- [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) 用于编写安全的以太坊合约框架
+- [Web3j](https://github.com/web3j/web3j) 以太坊官方Web3轻量级java SDK
+- [Embark](https://github.com/embark-framework/embark) 以太坊Dapp开发框架，支持IPFS、Whisper及Orbit调用 
+- [Web3Swift](https://github.com/BANKEX/web3swift) 一个Web3的swift SDK
+- [Porosity](https://github.com/comaeio/porosity) 反编译以太坊智能合约工具
+- [Solidity-Coverage](https://github.com/sc-forks/solidity-coverage) 检测Solidity代码覆盖
+- [Caliper](https://github.com/hyperledger-archives/caliper) hyperledger区块链性能测试工具
+- [Composer](https://github.com/hyperledger/composer) 官方可视化Fabric应用开发框架
+- [Cakeshop](https://github.com/jpmorganchase/cakeshop) 来自JP Morgan的以太坊可视化管理工具
+- [btcschools.net](https://www.btcschools.net) 一个区块链的PHP SDK
 
-左上角为代币详情板块，有的代币有推特社区，youtube 社区之类的，会显示到这里，你可以关注一下社区怎么样，或者你可以直接复制该代币合约地址，到推特上搜索看看大家对这个代币反应如何
+### Research 最新研究
 
-代币持仓板块
-左下角为代币持仓板块
-
-查看自己的 / 聪明钱的 / 开发者的持仓情况
-
-
-可以通过泡泡图来更方便的查看该代币的筹码分布
-
-
-
-买卖板块
-
-📊 顶部参数说明（整体项目情况）
-项目	解释	类比
-市值：$33.69K	当前代币总价值 = 当前价格 × 流通量	像一家小公司的总市值
-池子：$24.3K	当前流动性池中锁定的资金	像是市场上 “可交易的货币池”
-24h 成交额：$290.1K	最近 24 小时所有买卖产生的交易总金额	相当于这家小店一天的营业额
-持有者：314	当前持币地址数量	有多少人在玩这个币
-🏦 流动池信息
-项目	解释
-池子：FUCK / SOL	这是一个交易对，用 SOL 买卖 FUCK 币
-当前数量 / 初始：344.2M / 859.8M (85.98%)	当前还剩这么多币在池子里，已经卖掉了约 86%
-价值：$11.6K / $12.1K	当前 FUCK 和 SOL 在池中的资金量
-Mint 丢弃：是 ✅	表示币已经不能再增发了，属于通缩模型
-黑名单：否 ✅	没有开启地址封禁机制
-烧池子：100% 🔥	交易税 100% 进入流动池销毁或回流，通常代表项目方没有拿走手续费（看似更公平）
-Top10：23.48% ✅	前 10 大钱包持有比例，不算太集中，尚可
-💰 交易相关参数
-项目	解释
-老鼠仓：0%	项目方偷偷买入再拉盘的风险低（理想状态）
-钓鱼钱包：9.1%	有一部分钱包可能存在安全问题或作恶风险
-捐损交易：3.3%	这部分交易额会被销毁或捐出
-蓝筹指数：1%	这个项目被列入优质代币的权重指数中，占比很小
-📈 底部交易面板部分
-这部分是下单区：
-
-项目	解释
-市价 / 限价	市价：直接成交；限价：挂个期望价格等成交
-数量（SOL）	你想用多少 SOL 买币
-1 SOL ≈ 5.3M FUCK	当前币价（估算值）
-止盈止损 / 迁移自动卖 / Dev 卖	设置止盈止损、项目方自动套现控制等选项
-自动 (30.0%)	自动交易滑点设置（最大允许差价），30% 说明波动大时也会成交
-🔍 总结（适合新手理解）
-可以把这页面理解成 “币圈的淘宝”：
-
-上面是商铺的 “数据评分”；
-中间是你 “买东西的方式”；
-下面是你设置 “买多少钱、什么价格、要不要限价、亏到多少自动卖”。
-如果你是短线交易者，建议特别关注这几个点：
-
-“持有者数量”：代表这个币热不热；
-“烧池子比例”：项目方拿不拿税；
-“Top10 持币”：集中度太高容易砸盘；
-“Mint 是否关闭”：不能再印币的更安全。
-官方文档
-https://docs.gmgn.ai/cn
-
-总结
-这篇文章作为我链上交易的第一篇文章，主要是为大家讲解如何使用 GMGN 包括他不同的面板以及不同的功能，后面我会教大家如何看线，扫链，交易，聪明钱监控以及获得信息源，下一篇文章我会教大家如何通过扫链去筛选优质 MEME，所以希望大家保持关注，觉得我写的不错的话可以在下方赞赏码处请我喝一杯咖啡或者给我一个免费的一键三连！！非常感谢！！！
+- [eWASM](https://github.com/ewasm/design) 让以太坊支持WebAssembly
+- [FSolidM](https://cps-vo.org/group/SmartContracts) 可视化智能合约生成工具 [源码](https://github.com/anmavrid/smart-contracts)
+- [Maian](https://github.com/MAIAN-tool/MAIAN) 以太坊智能合约漏洞查找工具
+- [Oyente](https://github.com/melonproject/oyente) 以太坊智能合约分析工具
+- [Blockbench](https://github.com/ooibc88/blockbench) 区块链性能测试工具
+- [Zokrates](https://github.com/JacobEberhardt/ZoKrates) 以太坊使用zkSNARKS工具包(实验用)
+- [libsnark](https://github.com/scipr-lab/libsnark) zkSNARKS C++库
 
 
+## DOCUMENT 资料
+
+### BitCoin 比特币
+
+- [精通比特币](https://github.com/bitcoinbook/bitcoinbook) 精通比特币开发Oreilly开源书 [中文翻译版](https://github.com/tianmingyun/MasterBitcoin2CN)
+- [blockchaindev.org](http://blockchaindev.org/) 区块链创业公司维优CTO的专栏
+- [区块链研习社](http://www.jianshu.com/u/30081a05cf95) 比特币源码解读
+
+### Ethereum 以太坊
+
+- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) 精通以太坊开发Oreilly开源书
+- [区块链技术博客](http://me.tryblockchain.org/) 关注以太坊
+- [以太坊系列教程](http://gi1.cn/topics/category/solidity) solidity语言学习
+- [Solidity语言文档](http://www.tryblockchain.org/) 语言中文手册
+- [Web3.JS接口文档](http://web3.tryblockchain.org/) 接口中文手册
+- [Truffle框架文档](http://truffle.tryblockchain.org/) 框架中文手册
+- [Open Zeppelin框架文档](http://zeppelin.tryblockchain.org/) 框架中文手册
+- [Ethplorer接口](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API?from=etop) Ethplorer接口文档
+- [以太坊常见问题FAQ](http://8btc.com/thread-23195-1-1.html)
+- [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/) *(English)*
+- [EthList](https://github.com/Scanate/EthList) 以太坊开发相关学习资料收集 *(English)*
+- [以太坊开发者工具列表](https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/README_Chinese.md) 以太坊开发资料收集
+
+### Fabric 联盟链
+
+- [Fabric Official Docs](https://hyperledger-fabric.readthedocs.io/en/latest/) Fabric官方最新文档
+- [yeasy的专栏](http://blog.csdn.net/yeasy) IBM fabric核心开发者yeasy的专栏
+- [菜鸟的博客](http://blog.csdn.net/xjmtxwd24/) fabric0.6及1.0源码分析
+- [jiang_xinxing的博客](http://blog.csdn.net/jiang_xinxing/article/category/6642179) fabric0.6源码分析
+
+## APPLICATION 应用 
+
+### Explorer 链浏览
+
+- [Blockchain](https://blockchain.info) 比特币区块链浏览器
+- [Etherscan](https://etherscan.io) 以太坊区块链浏览器
+- [Ethplorer](https://ethplorer.io) 以太坊区块链浏览器，提供API调用
+- [Eth Gas Station](https://ethgasstation.info/index.php) 以太坊Gas目前定价
+- [Etherscope](https://etherscope.io) 以太坊区块链浏览器
+- [Oklink](https://www.oklink.com/eth/defi) Defi市场状况浏览器
+- [Tokenview](https://tokenview.io) The General Multi-chain Explorer and Blockchain API
+- [3xpl](https://3xpl.com) 最快的无广告通用区块浏览器
+
+### Wallet 钱包
+
+- [My Ether Wallet](https://myetherwallet.com) 网页版以太坊钱包 [源码](https://github.com/kvhnuke/etherwallet)
+- [MetaMask](https://metamask.io/) Chrome Extension浏览器插件版
+- [Multi-platform Jaxx Wallet](https://jaxx.io/) 同时兼容以太坊和比特币钱包
+- [Mist Wallet](https://github.com/ethereum/mist/releases/latest) 官方版轻量级钱包
+- [Parity Wallet](https://github.com/paritytech/parity/releases/latest) 
+- [Harmony Wallet](https://github.com/ether-camp/ethereum-harmony/releases/latest)
+- [imToken](https://token.im/) 移动App版钱包
+- [Trust](https://trustwalletapp.com/) iOS / Android 原生钱包 + DApp 浏览器
+- [Cipher](https://www.cipherbrowser.com/) iOS / Android 钱包 + DApp 浏览器
+- [Ledger Nano S](https://theethereum.wiki/w/index.php/Ledger_Nano_S) 硬件钱包
+- [Trezor](https://blog.trezor.io/trezor-integration-with-myetherwallet-3e217a652e08) 硬件钱包
+- [DeBank](https://debank.com/) 以太坊 DeFi 钱包
+- [web3modal](https://github.com/WalletConnect/web3modal) Web3 provider solution for all Wallets
+
+### Exchange 交易所
+
+- [0x](https://www.0xproject.com/otc) 0x交易所平台 [源码](https://github.com/0xProject/contracts)
+- [IDEX](https://idex.market) IDEX交易所，目前最活跃 [源码](https://github.com/AuroraDAO)
+- [ethdelf](https://etherdelta.github.io/#ZRX-ETH) etherdelta交易所 [源码](https://github.com/etherdelta/smart_contract)
+- [forkdelta](https://forkdelta.github.io) forkdelta交易所,较活跃 [源码](https://github.com/forkdelta/smart_contract)
+- [kyber](https://kyber.network/) kyber交易所 [源码](https://github.com/kyberNetwork/smart_contract)
+- [Dmarket](https://dmarket.io) dmarket交易所 [源码](https://github.com/suntechsoft/dmarket-smartcontract)
+- [augur](https://augur.net/) 对赌交易所 [源码](https://github.com/AugurProject)
+- [melonport](https://melonport.com/) 数字资产交易所 [源码](https://github.com/melonproject)
+
+### Defi 去中心化金融
+
+- [Uniswap](https://uniswap.org/) Uniswap [源码](https://github.com/Uniswap)
+- [Synthetix](https://www.synthetix.io/) Synthetix 衍生品[源码](https://github.com/synthetixio)
+- [Aave](https://aave.com/) Aave 借贷机制 [源码](https://github.com/aave)
+- [Compound](https://compound.finance/governance/comp) Compound 借贷机制 [源码](https://github.com/compound-finance/compound-protocol)
+- [MakerDao](https://makerdao.com/) MakerDao 做市Dai代币 [源码](https://github.com/makerdao)
+- [Wrapped BTC](https://wbtc.network) BTC锚定资产 [源码](https://github.com/WrappedBTC/bitcoin-token-smart-contracts)
+- [USDT](https://tether.to/) USDT稳定币
+
+### Game 游戏
+
+- [CryptoKitties](https://www.cryptokitties.co/) 以太猫
+- [Etheremon](https://www.etheremon.com/#/) 以太神奇宝贝
+- [Edgeless](https://www.edgeless.io/) 虚拟币在线赌场 [源码](https://github.com/EdgelessCasino/Smart-Contracts)
+
+### IM 通信
+
+- [status-im](https://github.com/status-im/status-network-token) status.im项目开源代码
+- [nostr](https://github.com/nostr-protocol/nostr) Nostr协议目录
+- [nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay) Nostr Relay Rust实现
+  
+### Social 社会
+
+- [Oraclize](http://docs.oraclize.it/#background) 第三方信息提供
+- [Aragon](https://aragon.one/) 公司业务 [源码](https://github.com/aragon/aragon-core/tree/master/contracts)
+- [dharma](https://dharma.io/) 第三方增信 [源码](https://github.com/dharmaprotocol/dharma-cli)
+- [Chronobank](https://chronobank.io/) 共享机制
+- [slockit](https://slock.it/) 租借智能设备 [源码](https://github.com/slockit/smart-contract)
+- [DAO](https://github.com/slockit/DAO) DAO提案
+
+### Cross Chain 跨链
+
+- [Cosmos](https://cosmos.network) cosmos跨链交易，包括BTC到ETH [源码](https://github.com/cosmos)
+- [polkadot](https://polkadot.io) polkadot跨链，实现了一个轻量级以太坊客户端 [源码](https://github.com/paritytech/parity)
+
+### Token 代币
+
+- [ERC20](https://github.com/ethereum/EIPs/pull/610) 以太坊的ICO代币标准
+- [Token Sale](http://vitalik.ca/general/2017/06/09/sales.html) 代币销售模型
+- [NFT](https://www.nft.org/) NFT代币
+
+## [Awesome Ethereum](https://github.com/chaozh/awesome-blockchain/tree/master/Ethereum) 
+
+以太坊相关详细开发资源收集
+
+## [Awesome Fabric](https://github.com/chaozh/awesome-blockchain/tree/master/Hyperledger%20Fabric) 
+
+Fabric联盟链相关详细开发资源收集
